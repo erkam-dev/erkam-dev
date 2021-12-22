@@ -11,3 +11,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehmetErkam&hide=contribs,prs&show_icons=true)](https://github.com/MehmetErkam)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MehmetErkam&repo=tick-to-do)](https://github.com/MehmetErkam/tick-to-do)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetErkam)](https://github.com/MehmetErkam)
