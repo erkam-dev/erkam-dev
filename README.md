@@ -5,7 +5,7 @@
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
-- 📫 How to reach me: https://linktr.ee/mehmeterkamhayirli
+- 📫 How to reach me: ![Go to my link tree](https://linktr.ee/mehmeterkamhayirli)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MehmetErkam&repo=tick-to-do)](https://github.com/MehmetErkam/tick-to-do)
 
