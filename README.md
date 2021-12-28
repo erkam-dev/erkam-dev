@@ -1,6 +1,6 @@
 <img width="1500" alt="GithubHeader" src="https://user-images.githubusercontent.com/62347408/147549765-b3f87b8a-a57d-4c64-8625-63da04bb3634.png">
 
-![My Interests](https://user-images.githubusercontent.com/62347408/147549726-e8f27b6f-7685-4776-a094-f69af43c8b3e.png)
+[![My Interests](https://user-images.githubusercontent.com/62347408/147549726-e8f27b6f-7685-4776-a094-f69af43c8b3e.png)]()
 
 
 [![How to reach me](https://user-images.githubusercontent.com/62347408/147549912-fe606edc-6273-46eb-b10f-497ea9a192da.png)](https://linktr.ee/mehmeterkamhayirli)
