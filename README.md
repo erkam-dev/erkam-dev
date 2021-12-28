@@ -4,7 +4,7 @@
 
 [![How to reach me](https://user-images.githubusercontent.com/62347408/147595918-00110313-f5ec-4a89-8dcf-58e8a862a20f.png)](https://linktr.ee/mehmeterkamhayirli)
 
-[![Last Projects](https://user-images.githubusercontent.com/62347408/147595987-9981afc4-145e-447a-afa3-a2bc4d537ae4.png)](https://github.com/MehmetErkam/tick-to-do)
+[![Recent Projects](https://user-images.githubusercontent.com/62347408/147596615-546aa8db-ebbb-41d1-8546-ea24fa845c69.png)](https://github.com/MehmetErkam/tick-to-do)
 
 ![Analytics](https://user-images.githubusercontent.com/62347408/147595799-2cae7a4a-0d3e-49d0-99b6-6bf0d2023794.png)
 
