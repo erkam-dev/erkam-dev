@@ -2,7 +2,7 @@
 
 [![My Interests](https://user-images.githubusercontent.com/62347408/147549726-e8f27b6f-7685-4776-a094-f69af43c8b3e.png)](https://github.com/MehmetErkam)
 
-[![How to reach me](https://user-images.githubusercontent.com/62347408/147596985-6921c119-2073-4066-9170-0a351a3b502b.png)](https://linktr.ee/mehmeterkamhayirli)
+[![How to reach me](https://user-images.githubusercontent.com/62347408/147596985-6921c119-2073-4066-9170-0a351a3b502b.png)](https://linktr.ee/erkam_dev)
 
 [![Recent Projects](https://user-images.githubusercontent.com/62347408/147596960-967a2e44-b3f3-4b42-a10a-a8c7583e668e.png)](https://github.com/MehmetErkam/tick-to-do)
 
