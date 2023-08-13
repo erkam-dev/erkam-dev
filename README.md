@@ -10,7 +10,7 @@
 
 [![Mehmet Erkam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehmetErkam&hide=contribs,prs&show_icons=true)](https://github.com/MehmetErkam)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetErkam)](https://github.com/MehmetErkam)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetErkam)](https://github.com/erkam-dev)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MehmetErkam)
+![Profile Views](https://komarev.com/ghpvc/?username=erkam-dev)
 
