@@ -8,7 +8,7 @@
 
 ![Analytics](https://user-images.githubusercontent.com/62347408/147595799-2cae7a4a-0d3e-49d0-99b6-6bf0d2023794.png)
 
-[![Mehmet Erkam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehmetErkam&hide=contribs,prs&show_icons=true)](https://github.com/MehmetErkam)
+[![Mehmet Erkam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehmetErkam&hide=contribs,prs&show_icons=true)](https://github.com/erkam-dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetErkam)](https://github.com/erkam-dev)
 
