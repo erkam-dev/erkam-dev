@@ -1,7 +1,7 @@
 <img width="100%" alt="GithubHeader" src="https://user-images.githubusercontent.com/62347408/147595828-50e52306-35c9-4fb9-99f4-f9c361b2d150.png">
 
 <h1>Hi, I'm Erkam</h1>
-<p>Flutter developer & UI/UX Designer. Specialized in designing, developing, and publishing mobile and web apps. My primary tools are Dart and Flutter, but I also have experience with other technologies such as Kotlin, Android, iOS, Figma, Blender, Spline, Git, GitHub, and Firebase.</p>
+<p>Flutter developer & UI/UX Designer. Specialized in designing, developing, and publishing mobile and web apps. My primary tools are Flutter & Figma, but I also have experience with other technologies.</p>
 
 <h2>Recent Projects</h2>
 <a href="https://github.com/erkam-dev/tick_to_do">
@@ -74,6 +74,13 @@
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" style="border-radius:10px; padding: 4px">
     <img src="https://img.shields.io/badge/BLoC-5898F1?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" style="border-radius:10px; padding: 4px">
     <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" style="border-radius:10px; padding: 4px">
+</div>
+
+<h4>Design</h4>
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="border-radius:10px; padding: 4px">
+    <img src="https://img.shields.io/badge/Spline-800080?style=for-the-badge&logo=circle&logoColor=white" alt="Spline" style="border-radius:10px; padding: 4px">
+    <img src="https://img.shields.io/badge/Blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" style="border-radius:10px; padding: 4px">
 </div>
 
 <h4>Planning</h4>
