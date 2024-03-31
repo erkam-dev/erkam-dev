@@ -5,12 +5,10 @@
 
 <h2>Recent Projects</h2>
 <a href="https://github.com/erkam-dev/tick_to_do">
-    <div style="display: flex; align-items:center;">
-        <img src="https://github.com/erkam-dev/tick_to_do/assets/62347408/b32605fb-19ac-48a7-9c22-a62b92043e18" style="width:30px; height: 30px"></img>
-        <div style="padding:4px"></div>
-        <h3>Tick To Do</h3>
-    </div>
+    <img src="https://github.com/erkam-dev/tick_to_do/assets/62347408/b32605fb-19ac-48a7-9c22-a62b92043e18" style="width:30px; height: 30px">
+    Tick To Do
 </a>
+
 <p>Simple and elegant to-do app with firestore and google sign in authentication. Available on <a href="https://play.google.com/store/apps/details?id=com.mehmeterkam.tick_to_do">Google Play</a>. You can find more info and explore the code of this project from <a href="https://github.com/erkam-dev/tick_to_do">here</a>.</p>
 
 <h2>Skills & Interests</h2>
@@ -71,7 +69,7 @@
 
 <h4>IDEs and Editors</h4>
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=gray&labelColor=gray" alt="VS Code" style="border-radius:10px; padding: 4px">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=gray" alt="VS Code" style="border-radius:10px; padding: 4px">
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" style="border-radius:10px; padding: 4px">
     <img src="https://img.shields.io/badge/Android_Studio-ADDC84?style=for-the-badge&logo=android-studio&logoColor=darkgreen&color=ADDC84" alt="Android Studio" style="border-radius:10px; padding: 4px">
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" style="border-radius:10px; padding: 4px">
