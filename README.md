@@ -103,7 +103,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="border-radius:10px; padding: 4px">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius:10px; padding: 4px">
     <img src="https://img.shields.io/badge/Actions-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Actions" style="border-radius:10px; padding: 4px">
-    <img src="https://img.shields.io/badge/Pages-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Pages" style="border-radius:10px; padding: 4px">
+    <img src="https://img.shields.io/badge/Pages-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Pages" style="border-radius:10px; padding: 4px">
     <img src="https://img.shields.io/badge/Fastlane-0000FF?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane" style="border-radius:10px; padding: 4px">
 </div>
 
@@ -125,8 +125,8 @@
 <h4>Cloud Services</h4>
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" style="border-radius:10px; padding: 4px">
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" style="border-radius:10px; padding: 4px">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="border-radius:10px; padding: 4px">
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Projects" style="border-radius:10px; padding: 4px">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Web Services" style="border-radius:10px; padding: 4px">
 </div>
 
 <h4>Video</h4>
