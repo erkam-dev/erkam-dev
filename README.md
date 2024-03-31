@@ -1,4 +1,4 @@
-<img width="1500" alt="GithubHeader" src="https://user-images.githubusercontent.com/62347408/147595828-50e52306-35c9-4fb9-99f4-f9c361b2d150.png">
+<img width="100%" alt="GithubHeader" src="https://user-images.githubusercontent.com/62347408/147595828-50e52306-35c9-4fb9-99f4-f9c361b2d150.png">
 
 <h1>Hi, I'm Erkam</h1>
 <p>Flutter developer & UI/UX Designer. Specialized in designing, developing, and publishing mobile and web apps. My primary tools are Dart and Flutter, but I also have experience with other technologies such as Kotlin, Android, iOS, Figma, Blender, Spline, Git, GitHub, and Firebase.</p>
@@ -10,6 +10,39 @@
 </a>
 
 <p>Simple and elegant to-do app with firestore and google sign in authentication. Available on <a href="https://play.google.com/store/apps/details?id=com.mehmeterkam.tick_to_do">Google Play</a>. You can find more info and explore the code of this project from <a href="https://github.com/erkam-dev/tick_to_do">here</a>.</p>
+
+<h2>Contact Me</h2>
+<p>Feel free to reach out to me through the following channels:</p>
+
+<div style="display: flex; flex-wrap: wrap;">
+    <a href="mailto:info@erkam.dev">
+        <img src="https://img.shields.io/badge/Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Mail" style="border-radius:10px; padding: 4px">
+    </a>
+    <a href="https://erkam.dev">
+        <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&color=purple&logoColor=white" alt="Website" style="border-radius:10px; padding: 4px">
+    </a>
+    <a href="https://www.linkedin.com/in/erkamdev/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius:10px; padding: 4px">
+    </a>
+    <a href="https://www.instagram.com/erkamdev/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius:10px; padding: 4px">
+    </a>
+    <a href="https://youtube.com/@erkamdev/">
+        <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Read CV" style="border-radius:10px; padding: 4px">
+    </a>
+    <a href="https://x.com/erkam_dev">
+        <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" style="border-radius:10px; padding: 4px">
+    </a>
+    <a href="https://figma.com/@erkamdev/">
+        <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Read CV" style="border-radius:10px; padding: 4px">
+    </a>
+    <a href="https://medium.com/@erkamdev/">
+        <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read CV" style="border-radius:10px; padding: 4px">
+    </a>
+    <a href="https://www.read.cv/erkamdev/">
+        <img src="https://img.shields.io/badge/Read_CV-000000?style=for-the-badge&logo=read.cv&logoColor=white" alt="Read CV" style="border-radius:10px; padding: 4px">
+    </a>
+</div>
 
 <h2>Skills & Interests</h2>
 <h3>Operating Systems</h3>
